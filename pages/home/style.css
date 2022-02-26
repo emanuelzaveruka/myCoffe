@@ -30,17 +30,32 @@
     margin-top: 10px;
 }
 .card{
+	margin-right: 0px;
+	margin-left: 0px;
 	margin-top: 150px;
 	border: none;
 }
 
+.social{
+	display: flex;
+	justify-content: space-around;
+}
 .social-medias{
 	margin: 0;
-	border: 1px solid #949494;
+	border-top: 1px solid #949494;
+	border-block-end: 1px solid #949494;
+
 	width: 100%;
 	height: auto;
 }
-.social-medias img{
+
+.social-medias-links{
+	display: flex;
+	justify-content: flex-start;
+}
+.social-medias-links img{
 	width: 50px;
 	height: 50px;
+	margin-right: 10px;
 }
+
