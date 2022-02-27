@@ -40,7 +40,10 @@
 	margin: none;
 	padding: 0px;
 }
-
+/*Conteúdo central*/
+.content-central{
+	margin-top: 200px;
+}
 /*Footer*/
 .footer-set-text{
 	font-size: 18px;
