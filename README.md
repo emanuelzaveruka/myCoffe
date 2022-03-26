@@ -1,24 +1,18 @@
-# myCoffee :coffee:
+# myCoffee
 
-### Visão Geral
-- #### Este projeto esta sendo criado com o intuito de aplicar os conhecimentos na biblioteca [Bootstrap](https://getbootstrap.com/) da linguagem CSS
-- #### O UI design desse site teve inspiração em dois sites:
-##### :small_red_triangle: https://cafedomoco.com.br/
-##### :small_red_triangle: https://www.ankerstraps.com/
+<center>
+<img id="#msEmail" src="https://emanuelzaveruka.github.io/portfolio/assets/img/myCoffe.svg" widht="90%" height="300px">
+</center>
 
-### Projeto
-#### É um web site vitrine responsivo, o foco principal desse site é apresentar os produtos da loja fictícia myCoffee. 
-##### O projeto ainda está em desenvolvimento, foi desenvolvido o UI design no [figma](https://www.figma.com/file/InjqvO3M2pXeaVn0N28S3X/Untitled?node-id=0%3A1) que também está desenvolvimento.
+>Web site vitrine responsivo, o foco principal desse site é apresentar os produtos da loja fictícia myCoffee.
+### Ajustes e melhorias
 
-### Stacks utilizadas neste projeto
-:black_circle: HTML5
-:black_circle: CSS
-:black_circle: Bootstrap
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-### O site está hospedado no git hub pages [link para a página](https://emanuelzaveruka.github.io/myCoffee/)
+- [x] Refazer UI no [Figma](https://www.figma.com/file/InjqvO3M2pXeaVn0N28S3X/Untitled?node-id=0%3A1)
+- [ ] Rescrever tudo utilizando typeScript
+- [ ] Integrar ao banco de dados
+- [ ] Realizar deploy
 
 
-
-### Meus contatos
-:link: [Likedin](https://www.linkedin.com/in/emanuelzaveruka/)
-:email:emanuelzaveruka@gmail.com
+[⬆ Voltar ao topo](#myCooffe)<br>
